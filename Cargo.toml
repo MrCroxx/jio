@@ -1,0 +1,10 @@
+[package]
+name = "jio"
+version = "0.0.0"
+edition = "2021"
+description = "Jetlike I/O library for Rust."
+license = "MIT"
+repository = "https://github.com/mrcroxx/jio"
+
+
+[dependencies]
